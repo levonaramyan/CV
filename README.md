@@ -39,8 +39,13 @@
 | **Programming languages and tools**|    C# 7.3, Python, C++, MSSQL, Wolfram Mathematica |
 | **Technology and Framework**      |    WPF, currently learning (Entity Framework, ADO.NET)|
 | **Technical skills and software** |    Visual Studio 2017, GitHub |
-| **Achievements**                  |    Finalist of GIST Tech-I 2016 Competition, Silicon Valley, CA, USA |
-| **Achievements**                  |    Annual Educational Award of the President of the Republic of Armenia in IT Sphere, 2012  |
 | **Languages**                     |    Armenian – primary language, Russian – Advanced, English - Advanced. |      
 
 <hr/>
+
+### Achievements
+| Year                       | Details |
+| --------------------------- | -------- |
+| **2016**                  |    Finalist of GIST Tech-I 2016 Competition, Silicon Valley, CA, USA |
+| **2012**                  |    Annual Educational Award of the President of the Republic of Armenia in IT Sphere, 2012  |
+
