@@ -1,7 +1,6 @@
 # Levon Aramyan <img src="https://avatars1.githubusercontent.com/u/43417240?s=400&u=a1453a92825498b0a2e6059b2eaea7a2ca9108b9&v=4" align="right" width="150px" height="150px" />
 <hr/>
-
-| _ | Contact Info |
+| _                  | Contact Info  |
 | ------------------ | ------------- |
 | First name         | Levon         |
 | Last name          | Aramyan       |
@@ -10,4 +9,33 @@
 | Address            | Yerevan , Ajapnyak |    
 | Linkedin           | [Levon Aramyan](https://www.linkedin.com/in/levon-aramyan-17b43917/) |
 | Codefights         | [Levon Aramyan](https://app.codesignal.com/profile/l_aramyan) |
+
+### Experience
+----------------
+> 2017 Dec-present | Avant-Guard Club LLC (Managing Director) <br>
+> 2016 Jan-2018 Dec | Technology & Science Dynamics LLC (Project Coordinator) <br>
+> 2011 Sep-2015 June | Mkhitar Sebastatsi Educational Complex (Head of "Space Club") <br>
+> 2010 Nov-present | Byurakan Astrophysical Observatory (Junior Reserch Associate) <br>
+
+
+### Education
+---------
+
+>2018 Sep - present   | Software Development with C# at ISTC<br>
+
+>2016 June  | Intensive Business trainings by "Double Nova Group", Silicon Valley, CA, USA
+
+>2012 June - 2015 June  | PhD at Byurakan Astrophysical Observatory, Byurakan, Armenia
+
+>2011 May - 2011 Aug  | Scientific Internship at University of Padova, Italy
+    * Automation of Astronomical Image Processing with Python
+
+>2010 Sep - 2012 June  | Masters at Yerevan State University (YSU), Faculty of Physics, Yerevan, Armenia
+
+>2006 Sep - 2010 June | Bachelor at Yerevan State University (YSU), Faculty of Physics, Yerevan, Armenia
+
+>2007-2013 | Quantum College, Yerevan, Armenia
+
+<br><br>
+
 
