@@ -2,6 +2,12 @@
 <hr/>
 
 | _ | Contact Info |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ------------------ | ------------- |
+| First name         | Levon         |
+| Last name          | Aramyan       |
+| E-mail             | <a href="mailto:levonaramyan@gmail.com">levonaramyan@gmail.com</a> |
+| Phone              | +374(93)543639 |
+| Address            | Yerevan , Ajapnyak |    
+| Linkedin           | [Levon Aramyan](https://www.linkedin.com/in/levon-aramyan-17b43917/) |
+| Codefights         | [Levon Aramyan](https://app.codesignal.com/profile/l_aramyan) |
+
