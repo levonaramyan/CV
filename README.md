@@ -28,7 +28,7 @@
 
 >2012 June - 2015 June  | PhD at Byurakan Astrophysical Observatory, Byurakan, Armenia
 
->2011 May - 2011 Aug  | Scientific Internship at University of Padova, Italy
+>2011 May - 2011 Aug  | Scientific Internship at University of Padova, Italy <br>
     * Automation of Astronomical Image Processing with Python
 
 >2010 Sep - 2012 June  | Masters at Yerevan State University (YSU), Faculty of Physics, Yerevan, Armenia
