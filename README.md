@@ -12,11 +12,12 @@
 | Codefights         | [Levon Aramyan](https://app.codesignal.com/profile/l_aramyan) |
 
 ### Experience
-----------------
-> 2017 Dec-present | Avant-Guard Club LLC (Managing Director) <br>
-> 2016 Jan-2018 Dec | Technology & Science Dynamics LLC (Project Coordinator) <br>
-> 2011 Sep-2015 June | Mkhitar Sebastatsi Educational Complex (Head of "Space Club") <br>
-> 2010 Nov-present | Byurakan Astrophysical Observatory (Junior Reserch Associate) <br>
+| Year | Position |
+| ---- | -------- |
+| 2017 Dec-present | Avant-Guard Club LLC (Managing Director)|
+| 2016 Jan-2018 Dec | Technology & Science Dynamics LLC (Project Coordinator)|
+| 2011 Sep-2015 June | Mkhitar Sebastatsi Educational Complex (Head of "Space Club")|
+| 2010 Nov-present | Byurakan Astrophysical Observatory (Junior Reserch Associate) |
 
 
 ### Education
