@@ -1,5 +1,4 @@
 # Levon Aramyan <img src="https://avatars1.githubusercontent.com/u/43417240?s=400&u=a1453a92825498b0a2e6059b2eaea7a2ca9108b9&v=4" align="right" width="150px" height="150px" />
-
 | _                  | Contact Info  |
 | ------------------ | ------------- |
 | **First name**         | Levon         |
@@ -18,6 +17,7 @@
 | **2011 Sep-2015 June** | Mkhitar Sebastatsi Educational Complex (Head of "Space Club")|
 | **2010 Nov-present** | Byurakan Astrophysical Observatory (Junior Reserch Associate) |
 
+<br>
 
 ### Education
 | Year | Course |
@@ -30,7 +30,7 @@
 |**2006 Sep - 2010 June** | Bachelor at Yerevan State University (YSU), Faculty of Physics, Yerevan, Armenia |
 |**2002 Sep - 2006 June** | Quantum College, Yerevan, Armenia |
 
-<br><br>
+<br>
 
 ### Skills
 | Skill                       | About it |
@@ -40,7 +40,7 @@
 | **Technical skills and software** |    Visual Studio 2017, GitHub |
 | **Languages**                     |    Armenian – primary language, Russian – Advanced, English - Advanced. |      
 
-
+<br>
 
 ### Achievements
 | Year                       | Details |
