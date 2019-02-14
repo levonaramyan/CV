@@ -48,3 +48,4 @@
 | **2016**                  |    Finalist of GIST Tech-I 2016 Competition, Silicon Valley, CA, USA |
 | **2012**                  |    Annual Educational Award of the President of the Republic of Armenia in IT Sphere, 2012  |
 
+[Download pdf version of my CV](https://github.com/levonaramyan/CV/blob/master/Levon_Aramyan.pdf)
