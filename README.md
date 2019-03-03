@@ -35,7 +35,7 @@
 ### Skills
 | Skill                       | About it |
 | --------------------------- | -------- |
-| **Programming languages and tools**|    C#, MSSQL, Python, Java, Wolfram Mathematica |
+| **Programming languages and tools**|    C#, MSSQL, HTML, Python, Java, Wolfram Mathematica |
 | **Technology and Framework**      |    Entity Framework, ADO.NET, WPF|
 | **Technical skills and software** |    Visual Studio 2017, GitHub |
 | **Languages**                     |    Armenian – primary language, Russian – Advanced, English - Advanced. |      
