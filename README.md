@@ -12,7 +12,8 @@
 ### Experience
 | Year | Position |
 | ---- | -------- |
-| **2017 Dec-present** | Avant-Guard Club LLC (Managing Director)|
+| **2017 Dec-present** | 4P1P LLC (.NET Developer)|
+| **2017 Dec-2019 Feb** | Avant-Guard Club LLC (Managing Director)|
 | **2016 Jan-2018 Dec** | Technology & Science Dynamics LLC (Project Coordinator)|
 | **2011 Sep-2015 June** | Mkhitar Sebastatsi Educational Complex (Head of "Space Club")|
 | **2010 Nov-present** | Byurakan Astrophysical Observatory (Junior Reserch Associate) |
