@@ -23,7 +23,7 @@
 ### Education
 | Year | Course |
 | ---- | -------- |
-|**2018 Sep - present**   | Software Development with C# at ISTC |
+|**2018 Sep - 2019 April**   | Software Development with C# at ISTC |
 |**2016 June**  | Intensive Business trainings by "Double Nova Group", Silicon Valley, CA, USA |
 |**2012 June - 2015 June**  | PhD at Byurakan Astrophysical Observatory, Byurakan, Armenia |
 |**2011 May - 2011 Aug**  | Scientific Internship at University of Padova, Italy <br>*Automation of Astronomical Image Processing with Python*|
@@ -36,9 +36,9 @@
 ### Skills
 | Skill                       | About it |
 | --------------------------- | -------- |
-| **Programming languages and tools**|    C#, MSSQL, HTML, CSS, Python, Java, Wolfram Mathematica |
-| **Technology and Framework**      |    Entity Framework, ADO.NET, WPF|
-| **Technical skills and software** |    Visual Studio 2017, GitHub |
+| **Programming languages and tools**|    C#, MSSQL, HTML, CSS, JS, Python, Java, Wolfram Mathematica |
+| **Technology and Framework**      |    ASP.NET, Entity Framework, ADO.NET, BOT framework, WPF|
+| **Technical skills and software** |    Visual Studio 2017, Azure, GitHub |
 | **Languages**                     |    Armenian – primary language, Russian – Advanced, English - Advanced. |      
 
 <br>
