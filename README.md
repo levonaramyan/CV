@@ -50,4 +50,3 @@
 | **2012**                  |    Annual Educational Award of the President of the Republic of Armenia in IT Sphere, 2012  |
 
 [Download pdf version of my CV](https://github.com/levonaramyan/CV/blob/master/Levon_Aramyan.pdf)
-<button></button>
