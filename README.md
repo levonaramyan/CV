@@ -12,7 +12,7 @@
 ### Experience
 | Year | Position |
 | ---- | -------- |
-| **2017 Dec-present** | 4P1P LLC (.NET Developer)|
+| **2019 Mar-present** | 4P1P LLC (.NET Developer)|
 | **2017 Dec-2019 Feb** | Avant-Guard Club LLC (Managing Director)|
 | **2016 Jan-2018 Dec** | Technology & Science Dynamics LLC (Project Coordinator)|
 | **2011 Sep-2015 June** | Mkhitar Sebastatsi Educational Complex (Head of "Space Club")|
@@ -36,8 +36,8 @@
 ### Skills
 | Skill                       | About it |
 | --------------------------- | -------- |
-| **Programming languages and tools**|    C#, MSSQL, HTML, CSS, JS, Python, Java, Wolfram Mathematica |
-| **Technology and Framework**      |    ASP.NET, Entity Framework, ADO.NET, BOT framework, WPF|
+| **Programming languages and tools**|    C#, MSSQL, HTML, CSS, JS, jQuery, Python, Wolfram Mathematica |
+| **Technology and Framework**      |    ASP.NET, Entity Framework, ADO.NET, BOT framework, WPF, Blazor (.NET Core 3)|
 | **Technical skills and software** |    Visual Studio 2017, Azure, GitHub |
 | **Languages**                     |    Armenian – primary language, Russian – Advanced, English - Advanced. |      
 
